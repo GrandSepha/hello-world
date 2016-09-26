@@ -3,4 +3,4 @@
 
 Hello,
 
-Computer Science student at Brooklyn College; the greatest college here on Earth.
+I am a Computer Science student at Brooklyn College; the greatest college here on Earth.
